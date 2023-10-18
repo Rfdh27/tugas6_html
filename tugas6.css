@@ -1,0 +1,52 @@
+body{
+    font-family: Georgia;
+    background-color: darkolivegreen;
+    color: beige;
+    margin: auto;
+    padding: 50px;
+    font-weight: 100;
+}
+.judul{
+    text-shadow: 10px 5px 5px black;
+    text-align: center;
+    font-size: 400%;
+}
+.anime1{
+    width: fit-content;
+    height: fit-content;
+    overflow: auto;
+}
+.anime2{
+    width: fit-content;
+    height: fit-content;
+    overflow: auto;
+}
+h2{
+    font-size: xx-large;
+    background-color: ivory;
+    color: darkolivegreen;
+}
+.anime3{
+    width: fit-content;
+    height: fit-content;
+    overflow: auto;
+}
+.anime4{
+    width: fit-content;
+    height: fit-content;
+    overflow: auto;
+}
+.anime5{
+    width: fit-content;
+    height: fit-content;
+    overflow: visible;
+}
+
+table th td{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+p{
+    font-family: 'comic sans';
+    font-size: medium;
+}
